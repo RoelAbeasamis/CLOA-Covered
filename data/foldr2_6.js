@@ -1,0 +1,1 @@
+var json_foldr2_6 = {"type":"FeatureCollection","name":"foldr2_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Geotag","Folder2":"F:\\pictures ARC\\54.jpg"},"geometry":{"type":"Point","coordinates":[125.54512706679391,8.881208120604272]}}]}
